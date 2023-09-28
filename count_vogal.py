@@ -1,0 +1,1 @@
+print(sum(1 for c in "Hello World!" if c.lower() in "aeiou"))
